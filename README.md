@@ -1,2 +1,3 @@
-# episode-13
-Arne - ClojureBridge and Lambda Island
+# defn.podcast show notes
+
+Please see the WIKI for information about each episode.
