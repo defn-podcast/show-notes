@@ -50,3 +50,9 @@ author of stuff using nbb
 
 **Questions:**
 - why do you hate Josh?
+
+
+## James Reeves
+
+**Questions:**
+- When consulting - which tools are you bringing to the startups (eg CI) and why?
