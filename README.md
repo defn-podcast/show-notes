@@ -1,5 +1,19 @@
 ![logo](https://cloud.githubusercontent.com/assets/120437/20456631/b40d0276-ae7a-11e6-8524-a2605143e279.jpg) 
 
+# Links
+
+##Web
+https://defn.audio  
+
+##Email
+defn.podcast@gmail.com  
+
+##Zencastr
+https://zencastr.com/defn
+
+##Twitter
+@DefnPodcast  
+
 # Credits
 
 ### Music
