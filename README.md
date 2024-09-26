@@ -1,4 +1,17 @@
-[![Stories in Ready](https://badge.waffle.io/defn-podcast/show-notes.png?label=ready&title=Ready)](https://waffle.io/defn-podcast/show-notes)
+|![logo](https://cloud.githubusercontent.com/assets/120437/20456631/b40d0276-ae7a-11e6-8524-a2605143e279.jpg) 
 
-|![logo](https://cloud.githubusercontent.com/assets/120437/20456631/b40d0276-ae7a-11e6-8524-a2605143e279.jpg) | Notes are on the [WIKI](https://github.com/defn-podcast/show-notes/wiki). |
-|----|----|
+# Credits
+
+### Music
+Thanks to exuberance of PTZERY for the intro / outro music
+The track name, chiming with our show theme, is [Melon Hamburger](https://soundcloud.com/ptzery/melon-hamburger)  
+Listen to more of their work via [their SoundCloud](https://soundcloud.com/ptzery)  
+
+### Design
+Thanks to the fabulous freelance designer, Lubov Soltan for the logo  
+Follow her on Twitter [@moolver_sin](https://twitter.com/moolver_sin)  
+Check out her work at [Deviant Art](http://moolver-sin.deviantart.com)  
+
+### Mixing
+Thanks to Wouter Dullaert for all the help with mixing and fixing of the audio  
+Follow him on Twitter [@wouter](https://twitter.com/wouterdullaert)  
