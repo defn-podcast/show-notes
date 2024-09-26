@@ -2,16 +2,16 @@
 
 # Links
 
-##Web
+## Web
 https://defn.audio  
 
-##Email
+## Email
 defn.podcast@gmail.com  
 
-##Zencastr
+## Zencastr
 https://zencastr.com/defn
 
-##Twitter
+## Twitter
 @DefnPodcast  
 
 # Credits
