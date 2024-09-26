@@ -11,8 +11,8 @@ defn.podcast@gmail.com
 ### Zencastr
 https://zencastr.com/defn
 
-### Twitter
-@DefnPodcast  
+### Twitter @DefnPodcast  
+https://twitter.com/DefnPodcast
 
 # Credits
 
