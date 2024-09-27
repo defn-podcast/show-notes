@@ -56,3 +56,25 @@ author of stuff using nbb
 
 **Questions:**
 - When consulting - which tools are you bringing to the startups (eg CI) and why?
+
+## Heart of Clojure debrief
+
+**Questions:**
+- What did Heart of Clojure leave in your heart? 💜
+- What was your favourite part of the conference and why? 😀
+- What expectations did you have for the conference before arriving, and how did
+  your experience differ from those expectations? 🤔
+- Which talk(s) blew your mind and why? 🤯
+- Tell me about an activity or workshop that you really enjoyed. What made it
+  special? 🌠
+- What was one unexpectedly awesome thing that happened at the conference? 😲
+- What was the most important thing you're taking away from the conference? 🥇
+- If you gave a talk or held a workshop or activity, what was the experience
+  like for you? 🤿
+- Who was the coolest person you met at the conference and why? (Other than the
+  defn crew, of course, because otherwise everyone would have the same answer!)
+  😎
+- Did you attend the live defn show? If so, say something nice about it! Now say
+  something mean just to keep us humble. 😇👿
+- Who do you think has the better Emacs config, Vijay or Josh? Can we all agree
+  that Ray only uses Cursive because he's afraid of the raw power of Emacs? 😱
