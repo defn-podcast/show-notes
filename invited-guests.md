@@ -78,3 +78,4 @@ author of stuff using nbb
   something mean just to keep us humble. 😇👿
 - Who do you think has the better Emacs config, Vijay or Josh? Can we all agree
   that Ray only uses Cursive because he's afraid of the raw power of Emacs? 😱
+- Ask yourself any question you want and then answer it as well! 🤓
