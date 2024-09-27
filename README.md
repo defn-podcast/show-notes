@@ -25,7 +25,7 @@ We don't use it these days cos it's at the forefront of a fascist hellscape but 
 
 ### Music
 Thanks to exuberance of PTZERY for the intro / outro music
-The track name, chiming with our show theme, is [Melon Hamburger](https://soundcloud.com/ptzery/melon-hamburger)  
+The track name, chiming with our ethics, is [Melon Hamburger](https://soundcloud.com/ptzery/melon-hamburger)  
 Listen to more of their work via [their SoundCloud](https://soundcloud.com/ptzery)  
 
 ### Design
