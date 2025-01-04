@@ -1,12 +1,89 @@
-## Kathryn Lawrence
+## Scheduled
 
-- Who is [@Kathryn Lawrence](https://clojurians.slack.com/team/U036AP3U9BM)?
-- You gave a cool talk about [ASCII tarot cards](https://ascii-tarot.com) at one of the Pitch offsites. Can you tell us about the project?
-- [Arthur C. Clarke's Third Law](https://en.wikipedia.org/wiki/Clarke's_three_laws) states that "Any sufficiently advanced technology is indistinguishable from magic," but what about the other way 'round? Is any sufficiently advanced magic indistinguishable from technology?
+### Kira Howe
 
-![ASCII Tarot card deck](https://raw.githubusercontent.com/lawreka/ascii-tarot/HEAD/irl.JPG)
+📅 Sun, 12 Jan 2025
 
-## Jack Rusher
+**Questions:**
+
+https://codewithkira.com/
+
+- Who is Kira Howe?
+- You've had some life changes recently that you've written about...
+- You had some [interesting
+  thoughts](https://codewithkira.com/2024-10-31-clojurists-together-update-sept-oct-2024.html)
+  after attending the Conj last year
+  - SVGs for visualising graphics / a grammar for graphics
+  - Software engineers as designers: how do we get there?
+- You're a major contributor to the work going on around data science in the
+  Clojure community. What do you think Clojure has to offer to data science?
+
+## Contacted
+
+### Chris McCormack
+
+⚠ Schedule for 11:00 slot somewhere in mid-Feb
+
+author of stuff using nbb
+
+**Questions:**
+- why do you hate Josh?
+
+### Drew Raines
+
+⚠ Reschedule for 20:00 slot in Jan? Feb?
+
+https://gist.github.com/drewr/e190a8ec3311a5650a9ec3ad29042ef7
+
+**Bio:**
+- Based in Nashville, TN, USA, moved here in late 90s to briefly pursue music
+- Local community: church, transit advocacy
+- Love all things outdoors: walking, running, cycling, hiking, gardening (credit
+  to my wife)
+- Anything physical I can do without a screen: fixing bikes, carpentry
+- Catching up on reading that I didn’t love as a kid: fiction, biographies, etc.
+- Two teenage boys who are into all the usual sports
+
+**Questions:**
+- How did you get into programming?
+- Emacs or some other shit?
+- How did you find Clojure? Definitely mention Higher Order Perl so we can
+  fanboy out for a few minutes. 😉
+- Holy shit you worked at Elasticsearch for a long time!
+- Shift to management? Why and how did you find it? Are you still managing, or
+  back to coding, or both?
+- What are you doing now?
+- Transport advocacy: tell me more!
+
+### Nathan Marz
+
+⚠ Schedule for 20:00 slot in March?
+
+- Who is Nathan Marz?
+- What have you been up to for the last 10 years?
+- Why did you decide to write Rama? Was the goal clear at the beginning or did
+  it emerge as you went?
+- How does the Red Planet approach to software engineering differ from where
+  you've worked before (e.g. pressure to ship vs. time to think)?
+
+## Wishlist
+
+### Colin Fleming
+
+**Questions:**
+- Who is Colin?
+- Emacs or some other shit? Why IntelliJ?
+- Why gen AI?
+
+### Sara Franson
+
+**Questions:**
+- Who is Sara?
+- Why are you on a Clojure podcast?
+- How does your experience with Clojure compare to your experience in Haskell?
+  Does your brain work differently depending on which language you're using?
+
+### Jack Rusher
 
 - Who is Jack Rusher?
 - What is [application.garden](https://docs.apps.garden/)?
@@ -14,68 +91,28 @@
 - What's [maria.cloud](https://www.maria.cloud/)? Is it running on application.garden yet? :wink: 
 - How did you get into art and how do you see it influencing your thinking?
 
-## Eric Normand
-
-**Questions:**
-- Abstraction is hard to define, and you've pointed out that people use the word to mean different things. What are some of these common usages, and how would you define abstraction yourself?
-- What are some examples of abstraction that Clojure programmers would be familiar with?
-- What are some of the signs that abstraction might be premature? What are some of the signs that you probably need to start thinking about introducing abstraction?
-- How does abstraction relate to simplicity, which you've written about in your book "Grokking Simplicity"?
-- How does abstraction come into play in your upcoming book, "[Runnable Specifications](https://ericnormand.me/domain-modeling)"?
-
-##  Joakim Tengstrand 
+###  Joakim Tengstrand 
 
 primary author of polylith
 
 **Questions:**
 - wtaf is it?
 
-## Oliver Caldwell
+### Oliver Caldwell
 
 author of plugins for Vim 
 
 **Questions:**
 - why do you hate yourself?
 
-## Lu / todepond
+### Lu / todepond
 
 author of many things, co-host of the Future of Coding
 
 **Questions:**
 - why are you so epic?
 
-## Chris McCormack
-
-author of stuff using nbb
-
-**Questions:**
-- why do you hate Josh?
-
-
-## James Reeves
+### James Reeves
 
 **Questions:**
 - When consulting - which tools are you bringing to the startups (eg CI) and why?
-
-## Heart of Clojure debrief
-
-**Questions:**
-- What did Heart of Clojure leave in your heart? 💜
-- What was your favourite part of the conference and why? 😀
-- What expectations did you have for the conference before arriving, and how did
-  your experience differ from those expectations? 🤔
-- Which talk(s) blew your mind and why? 🤯
-- Tell me about an activity or workshop that you really enjoyed. What made it
-  special? 🌠
-- What was one unexpectedly awesome thing that happened at the conference? 😲
-- What was the most important thing you're taking away from the conference? 🥇
-- If you gave a talk or held a workshop or activity, what was the experience
-  like for you? 🤿
-- Who was the coolest person you met at the conference and why? (Other than the
-  defn crew, of course, because otherwise everyone would have the same answer!)
-  😎
-- Did you attend the live defn show? If so, say something nice about it! Now say
-  something mean just to keep us humble. 😇👿
-- Who do you think has the better Emacs config, Vijay or Josh? Can we all agree
-  that Ray only uses Cursive because he's afraid of the raw power of Emacs? 😱
-- Ask yourself any question you want and then answer it as well! 🤓
